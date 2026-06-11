@@ -4,7 +4,7 @@
 
 This project investigates how successful Billboard Hot 100 songs have changed over time by combining chart performance data, Apple Music metadata, computational audio features, and unsupervised machine learning.
 
-Using over 4,000 Billboard Top-40 songs from 2005–2025, I constructed a multi-stage pipeline that:
+Using over 4,000 Billboard Top-40 songs from 2005–2025, a multi-stage pipeline was developed to:
 
 1. Processes weekly Billboard chart data into song-level lifecycle records.
 2. Matches songs to Apple Music metadata and preview clips.
