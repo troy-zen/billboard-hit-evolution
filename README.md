@@ -6,11 +6,11 @@ This project investigates how successful Billboard Hot 100 songs have changed ov
 
 Using over 4,000 Billboard Top-40 songs from 2005–2025, a multi-stage pipeline was developed to:
 
-1. Processes weekly Billboard chart data into song-level lifecycle records.
-2. Matches songs to Apple Music metadata and preview clips.
-3. Extracts computational audio features using Essentia machine learning models.
-4. Applies PCA and clustering to identify interpretable audio archetypes.
-5. Examines how the composition of successful songs has evolved across different eras of music consumption.
+1. Process weekly Billboard chart data into song-level lifecycle records.
+2. Match songs to Apple Music metadata and preview clips.
+3. Extract computational audio features using Essentia machine learning models.
+4. Apply PCA and clustering to identify interpretable audio archetypes.
+5. Examine how the composition of successful songs has evolved across different eras of music consumption.
 
 ---
 
