@@ -1,0 +1,36 @@
+search_song,search_artist,matched_song,matched_artist,collection,match_status,title_score,artist_overlap,version_penalty
+"""Bzrp Music Sessions, Vol. 53""",Bizarrap & Shakira,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,Las Mujeres Ya No Lloran,LOW_CONFIDENCE,0.8666666666666667,1.0,0.0
+"""You, Me, & Whiskey""",Justin Moore & Priscilla Block,"You, Me, And Whiskey",Justin Moore & Priscilla Block,"You, Me, And Whiskey - Single",LOW_CONFIDENCE,0.875,1.0,0.0
+100.mil',J. Cole & BAS,1 0 0 . m i l ‘,J. Cole & Bas,The Off-Season,LOW_CONFIDENCE,0.7777777777777778,1.0,0.0
+3am,Eminem,3 A.M.,Eminem,Relapse,LOW_CONFIDENCE,0.75,1.0,0.0
+95.south,J. Cole,9 5 . s o u t h,J. Cole,The Off-Season,LOW_CONFIDENCE,0.7619047619047619,1.0,0.0
+A-O-K,Tai Verdes,AOK,Tai Verdes,TV,LOW_CONFIDENCE,0.75,1.0,0.0
+Cry Baby/Piece Of My Heart,Melissa Etheridge & Joss Stone,Piece of My Heart,Melissa Etheridge,Greatest Hits: The Road Less Traveled,LOW_CONFIDENCE,0.7906976744186046,1.0,0.0
+Do You Know? (The Ping Pong Song)/Dimelo,Enrique Iglesias,Do You Know? (The Ping Pong Song),Enrique Iglesias,Greatest Hits (2008),LOW_CONFIDENCE,0.7586206896551724,1.0,0.0
+East Side Of Sorrow,Zach Bryan,Sober Side of Sorry,Zach Bryan,American Heartbreak,LOW_CONFIDENCE,0.7368421052631579,1.0,0.0
+Fucking Fans,Drake,F*****g Fans,Drake,Certified Lover Boy,LOW_CONFIDENCE,0.7,1.0,0.0
+G.D.F.R.,Flo Rida Featuring Sage The Gemini & Lookas,GDFR (feat. Sage the Gemini & Lookas),Flo Rida,My House,LOW_CONFIDENCE,0.7272727272727273,1.0,0.0
+Gatubela,Karol G x Maldy,GATÚBELA,KAROL G & Maldy,GATÚBELA - Single,LOW_CONFIDENCE,0.875,1.0,0.0
+Gettin' Over You,David Guetta & Chris Willis Featuring Fergie & LMFAO,Gettin' Over (feat. Chris Willis),David Guetta,Gettin' Over (feat. Chris Willis) - Single,LOW_CONFIDENCE,0.8461538461538461,1.0,0.0
+Hawai,Maluma & The Weeknd,Hawái,Maluma,Hawái - Single,LOW_CONFIDENCE,0.8,1.0,0.0
+Hrs And Hrs,Muni Long,Hrs & Hrs,Muni Long,Public Displays Of Affection: The Album,LOW_CONFIDENCE,0.7777777777777778,1.0,0.0
+I Guess It's Fuck Me,Drake,I Guess It’s F**k Me,Drake,Her Loss,LOW_CONFIDENCE,0.8947368421052632,1.0,0.0
+I'm Sorry,Lil Uzi Vert,"Mama, I’m Sorry",Lil Uzi Vert,Pink Tape,LOW_CONFIDENCE,0.7272727272727273,1.0,0.0
+It's Up,"""Drake, Young Thug & 21 Savage""",It’s Up,"Drake, Young Thug & 21 Savage",100 GIGS - Single,LOW_CONFIDENCE,0.9230769230769232,1.0,0.0
+La Cancion,J Balvin & Bad Bunny,LA CANCIÓN,J Balvin & Bad Bunny,OASIS,REVIEW,0.9,1.0,0.0
+Mi Ex Tenia Razon,Karol G,MI EX TENÍA RAZÓN,KAROL G,MAÑANA SERÁ BONITO (BICHOTA SEASON),LOW_CONFIDENCE,0.8823529411764706,1.0,0.0
+More M's,Drake & 21 Savage,More M’s,Drake & 21 Savage,Her Loss,REVIEW,0.9333333333333332,1.0,0.0
+Murder On My Mind,YNW Melly,Mischief on My Mind,YNW Melly,Mischief on My Mind - Single,LOW_CONFIDENCE,0.7222222222222222,1.0,0.0
+Nee-nah,"""21 Savage, Travis Scott & Metro Boomin""",née-nah,"21 Savage, Travis Scott & Metro Boomin",american dream,LOW_CONFIDENCE,0.8571428571428571,1.0,0.0
+Pussy & Millions,Drake & 21 Savage Featuring Travis Scott,P***y & Millions (feat. Travis Scott),Drake & 21 Savage,Her Loss,LOW_CONFIDENCE,0.8461538461538461,1.0,0.0
+Ran$om,Lil Tecca,Ransom,Lil Tecca,Ransom - Single,LOW_CONFIDENCE,0.8333333333333334,1.0,0.0
+Senorita,Shawn Mendes & Camila Cabello,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,LOW_CONFIDENCE,0.875,1.0,0.0
+Telepatia,Kali Uchis,telepatía (Mixed),Kali Uchis,Today’s Hits: July 2021 (DJ Mix),LOW_CONFIDENCE,0.8888888888888888,1.0,0.0
+The Good Life,OneRepublic,Good Life,OneRepublic,Waking Up,LOW_CONFIDENCE,0.8181818181818182,1.0,0.0
+This Summer's Gonna Hurt...,Maroon 5,This Summer's Gonna Hurt Like a MotherF****r,Maroon 5,V,LOW_CONFIDENCE,0.7301587301587301,1.0,0.0
+We Were Us,Keith Urban And Miranda Lambert,We Were,Keith Urban,We Were - Single,LOW_CONFIDENCE,0.8235294117647058,1.0,0.0
+amari,J. Cole,a m a r i,J. Cole,The Off-Season,LOW_CONFIDENCE,0.7142857142857143,1.0,0.0
+hunger.on.hillside,J. Cole & BAS,h u n g e r . o n . h i l l s i d e,J. Cole & Bas,The Off-Season,LOW_CONFIDENCE,0.7346938775510204,1.0,0.0
+let.go.my.hand,"""J. Cole, BAS & 6LACK""",l e t . g o . m y . h a n d,"J. Cole, Bas & 6LACK",The Off-Season,LOW_CONFIDENCE,0.8,1.0,0.0
+punchin'.the.clock,J. Cole,p u n c h i n ‘ . t h e . c l o c k,J. Cole,The Off-Season,LOW_CONFIDENCE,0.7391304347826086,1.0,0.0
+the.climb.back,J. Cole,t h e . c l i m b . b a c k,J. Cole,The Off-Season,LOW_CONFIDENCE,0.7567567567567568,1.0,0.0

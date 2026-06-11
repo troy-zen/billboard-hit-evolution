@@ -1,0 +1,101 @@
+search_song,search_artist,matched_song,matched_artist,collection,match_status,title_score,artist_overlap,version_penalty
+I Took A Pill In Ibiza,Mike Posner,I Took a Pill In Ibiza,Mike Posner,"At Night, Alone.",AUTO_ACCEPT,1.0,1.0,0.0
+I Kissed A Girl,Katy Perry,I Kissed a Girl,Katy Perry,One of the Boys,AUTO_ACCEPT,1.0,1.0,0.0
+Wouldn't Leave,Kanye West Featuring PARTYNEXTDOOR,Wouldn't Leave (feat. PARTYNEXTDOOR),Kanye West,ye,AUTO_ACCEPT,1.0,1.0,0.0
+Blue,Billie Eilish,BLUE,Billie Eilish,HIT ME HARD AND SOFT,AUTO_ACCEPT,1.0,1.0,0.0
+Dark Side Of The Moon,Lil Wayne Featuring Nicki Minaj,Dark Side of the Moon (feat. Nicki Minaj),Lil Wayne,Tha Carter V,AUTO_ACCEPT,1.0,1.0,0.0
+Keep Driving,Harry Styles,Keep Driving,Harry Styles,Harry's House,AUTO_ACCEPT,1.0,1.0,0.0
+Big Time,DJ Khaled Featuring Future & Lil Baby,BIG TIME (feat. Future & Lil Baby) [Mixed],DJ Khaled,"Club Crates, Pt. 3 (DJ Mix)",AUTO_ACCEPT,1.0,1.0,0.0
+Lip Gloss,Lil Mama,Lip Gloss,Lil Mama,Lip Gloss - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Gonorrhea,Lil Wayne Featuring Drake,Gonorrhea (feat. Drake),Lil Wayne,I Am Not a Human Being,AUTO_ACCEPT,1.0,1.0,0.0
+When You're Gone,Shawn Mendes,When You're Gone,Shawn Mendes,When You're Gone - Single,AUTO_ACCEPT,1.0,1.0,0.0
+But Daddy I Love Him,Taylor Swift,But Daddy I Love Him,Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,AUTO_ACCEPT,1.0,1.0,0.0
+Daisies,Katy Perry,Daisies,Katy Perry,Daisies - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Bloodline,Ariana Grande,bloodline,Ariana Grande,"thank u, next",AUTO_ACCEPT,1.0,1.0,0.0
+FE!N,Travis Scott Featuring Playboi Carti,FE!N (feat. Playboi Carti),Travis Scott,UTOPIA,AUTO_ACCEPT,1.0,1.0,0.0
+The Remorse,Drake,The Remorse,Drake,Certified Lover Boy,AUTO_ACCEPT,1.0,1.0,0.0
+It Won't Be Like This For Long,Darius Rucker,It Won't Be Like This For Long,Darius Rucker,Country Summer Lovin',AUTO_ACCEPT,1.0,1.0,0.0
+44 Bulldog,Pop Smoke,44 BullDog,Pop Smoke,Shoot For The Stars Aim For The Moon,AUTO_ACCEPT,1.0,1.0,0.0
+Tom Ford,Jay-Z,Tom Ford,JAŸ-Z,Magna Carta... Holy Grail,AUTO_ACCEPT,1.0,0.5,0.0
+Powerglide,Rae Sremmurd & Juicy J,Powerglide (feat. Juicy J) [From SR3MM],"Rae Sremmurd, Swae Lee & Slim Jxmmi",SR3MM,REVIEW,1.0,0.5,0.0
+Impossible,Shontelle,Impossible,Shontelle,No Gravity,AUTO_ACCEPT,1.0,1.0,0.0
+U Don't Know Me,T.I.,U Don't Know Me,T.I.,Urban Legend,AUTO_ACCEPT,1.0,1.0,0.0
+Bitter,Summer Walker & Cardi B,Bitter (Narration By Cardi B),Summer Walker & Cardi B,Still Over It,AUTO_ACCEPT,1.0,1.0,0.0
+Lighters,Bad Meets Evil Featuring Bruno Mars,Lighters (feat. Bruno Mars),Bad Meets Evil,Curtain Call 2,AUTO_ACCEPT,1.0,1.0,0.0
+Beachin',Jake Owen,Beachin',Jake Owen,Days of Gold,AUTO_ACCEPT,1.0,1.0,0.0
+To The Moon!,JNR CHOI & Sam Tompkins,TO THE MOON,JNR CHOI & Sam Tompkins,TO THE MOON - Single,REVIEW,1.0,1.0,0.0
+Rumour Has It,Adele,Rumour Has It,Adele,21,AUTO_ACCEPT,1.0,1.0,0.0
+One More Night,Maroon 5,One More Night,Maroon 5,20 #1’s: Pop,AUTO_ACCEPT,1.0,1.0,0.0
+Glitter In The Air,P!nk,Glitter In the Air,P!nk,Greatest Hits...So Far!!!,AUTO_ACCEPT,1.0,1.0,0.0
+Best Love Song,T-Pain Featuring Chris Brown,Best Love Song (feat. Chris Brown),T-Pain,Revolver (Expanded Edition),AUTO_ACCEPT,1.0,1.0,0.0
+Burn It Down,Linkin Park,BURN IT DOWN,LINKIN PARK,LIVING THINGS,AUTO_ACCEPT,1.0,1.0,0.0
+Lucky You,Eminem Featuring Joyner Lucas,Lucky You (feat. Joyner Lucas),Eminem,Kamikaze,AUTO_ACCEPT,1.0,1.0,0.0
+So Small,Carrie Underwood,So Small,Carrie Underwood,Carnival Ride,AUTO_ACCEPT,1.0,1.0,0.0
+Fake Smile,Ariana Grande,fake smile,Ariana Grande,"thank u, next",AUTO_ACCEPT,1.0,1.0,0.0
+Son Of A Sinner,Jelly Roll,Son of a Sinner,Jelly Roll,Ballads of the Broken,AUTO_ACCEPT,1.0,1.0,0.0
+Then,Brad Paisley,Then,Brad Paisley,American Saturday Night,AUTO_ACCEPT,1.0,1.0,0.0
+Don't Stop,Megan Thee Stallion Featuring Young Thug,Don't Stop (feat. Young Thug),Megan Thee Stallion,Don't Stop (feat. Young Thug) - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Independent,Webbie Featuring Lil' Phat & Lil' Boosie,Independent (feat. Boosie Badazz & Lil Phat),Webbie,Savage Life 2,AUTO_ACCEPT,1.0,1.0,0.0
+Deny Deny Deny,Noah Kahan,Deny Deny Deny,Noah Kahan,The Great Divide,AUTO_ACCEPT,1.0,1.0,0.0
+Don't Ya,Brett Eldredge,Don't Ya,Brett Eldredge,Bring You Back,AUTO_ACCEPT,1.0,1.0,0.0
+Don't Matter,Akon,Don't Matter (Radio Edit),Akon,Don't Matter - Single,AUTO_ACCEPT,1.0,1.0,0.0
+All My Life,Lil Durk Featuring J. Cole,All My Life (feat. J. Cole),Lil Durk,All My Life (feat. J. Cole) - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Numbers,"""A Boogie wit da Hoodie Featuring Roddy Ricch, Gunna & London On Da Track""","Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",A Boogie wit da Hoodie,Artist 2.0,AUTO_ACCEPT,1.0,1.0,0.0
+Adore You,Miley Cyrus,Adore You,Miley Cyrus,Love Bops 2022,AUTO_ACCEPT,1.0,1.0,0.0
+Everytime We Touch,Cascada,Everytime We Touch,Cascada,Everytime We Touch (Premium Edition),AUTO_ACCEPT,1.0,1.0,0.0
+You Make It Easy,Jason Aldean,You Make It Easy,Jason Aldean,Rearview Town,AUTO_ACCEPT,1.0,1.0,0.0
+You Look Like You Love Me,Ella Langley Featuring Riley Green,you look like you love me,Ella Langley & Riley Green,hungover,REVIEW,1.0,1.0,0.0
+What's Left Of Me,Nick Lachey,What's Left of Me,Nick Lachey,What's Left of Me,AUTO_ACCEPT,1.0,1.0,0.0
+Crooked Smile,J. Cole Featuring TLC,Crooked Smile (feat. TLC),J. Cole,Born Sinner,AUTO_ACCEPT,1.0,1.0,0.0
+Jail,Kanye West,Jail,Kanye West,Donda,AUTO_ACCEPT,1.0,1.0,0.0
+Not Afraid,Eminem,Not Afraid,Eminem,Not Afraid - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Nothing,The Script,Nothing,The Script,Tales from The Script: Greatest Hits,AUTO_ACCEPT,1.0,1.0,0.0
+Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,Knock You Down (feat. Kanye West & Ne-Yo) [Mixed],Keri Hilson,Around The World (DJ Mix),AUTO_ACCEPT,1.0,1.0,0.0
+Hold Up,Beyonce,Hold Up,Beyoncé,Lemonade,AUTO_ACCEPT,1.0,0.0,0.0
+Lucky,Glee Cast,Lucky,Glee Cast,"Glee: The Music, The Complete Season Two",AUTO_ACCEPT,1.0,1.0,0.0
+Takin' Shots,Post Malone,Takin' Shots,Post Malone,beerbongs & bentleys,AUTO_ACCEPT,1.0,1.0,0.0
+You Say,Lauren Daigle,You Say,Lauren Daigle,Look Up Child,AUTO_ACCEPT,1.0,1.0,0.0
+Timeless,The Weeknd & Playboi Carti,Timeless,The Weeknd & Playboi Carti,Hurry Up Tomorrow,REVIEW,1.0,1.0,0.0
+Same Bitches,Post Malone Featuring G-Eazy & YG,Same Bitches (feat. G-Eazy & YG),Post Malone,beerbongs & bentleys,AUTO_ACCEPT,1.0,1.0,0.0
+Tunnel Vision,Kodak Black,Tunnel Vision,Kodak Black,Painting Pictures,AUTO_ACCEPT,1.0,1.0,0.0
+If It's Lovin' That You Want,Rihanna,If It's Lovin' That You Want,Rihanna,Music of the Sun,AUTO_ACCEPT,1.0,1.0,0.0
+Judge Judy,"""Tyler, The Creator""",Judge Judy,"Tyler, The Creator",CHROMAKOPIA,LOW_CONFIDENCE,1.0,1.0,0.0
+These Words,Natasha Bedingfield,These Words,Natasha Bedingfield,Unwritten,AUTO_ACCEPT,1.0,1.0,0.0
+Freeze,T-Pain Featuring Chris Brown,Freeze (feat. Chris Brown),T-Pain,Freeze (feat. Chris Brown) - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Sugar (Gimme Some),"""Trick Daddy Featuring Ludacris, Lil' Kim & Cee-Lo""",Sugar (Gimme Some),Trick Daddy,Class Of 2005,AUTO_ACCEPT,1.0,1.0,0.0
+I Don't Wanna Live Forever (Fifty Shades Darker),ZAYN / Taylor Swift,I Don't Wanna Live Forever (Fifty Shades Darker),ZAYN & Taylor Swift,reputation Stadium Tour Surprise Song Playlist,LOW_CONFIDENCE,1.0,1.0,0.25
+Beat The Odds,Lil Tjay,Beat the Odds,Lil Tjay,Beat the Odds - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Like A Boy,Ciara,Like a Boy,Ciara,The Evolution (Bonus Track Edition),AUTO_ACCEPT,1.0,1.0,0.0
+Get Him Back!,Olivia Rodrigo,get him back!,Olivia Rodrigo,GUTS (spilled),AUTO_ACCEPT,1.0,1.0,0.0
+GTA,Future & Metro Boomin,GTA,Future & Metro Boomin,WE DON'T TRUST YOU,LOW_CONFIDENCE,1.0,1.0,0.0
+Bittersuite,Billie Eilish,BITTERSUITE,Billie Eilish,HIT ME HARD AND SOFT,AUTO_ACCEPT,1.0,1.0,0.0
+Juju On That Beat (TZ Anthem),Zay Hilfigerrr & Zayion McCall,Juju on That Beat (TZ Anthem) [Mr. Collipark Moombah Mix],Zay Hilfigerrr & Zayion McCall,Juju on That Beat (TZ Anthem) [Mr. Collipark Moombah Mix] - Single,REVIEW,1.0,1.0,0.0
+Diamonds,Sam Smith,Diamonds,Sam Smith,Love Goes,AUTO_ACCEPT,1.0,1.0,0.0
+Dancin' In The Country,Tyler Hubbard,Dancin’ In The Country,Tyler Hubbard,Dancin' In The Country - EP,AUTO_ACCEPT,1.0,1.0,0.0
+Fly,Nicki Minaj Featuring Rihanna,Fly (feat. Rihanna),Nicki Minaj,Pink Friday (Deluxe Edition),AUTO_ACCEPT,1.0,1.0,0.0
+Bring Em Out,T.I.,Bring Em Out,T.I.,Urban Legend,AUTO_ACCEPT,1.0,1.0,0.0
+Welcome To The Black Parade,My Chemical Romance,Welcome to the Black Parade,My Chemical Romance,The Black Parade,AUTO_ACCEPT,1.0,1.0,0.0
+We Might Be Dead By Tomorrow,Soko,We Might Be Dead by Tomorrow,Soko,I Thought I Was an Alien,AUTO_ACCEPT,1.0,1.0,0.0
+I Don't F**k With You,Big Sean Featuring E-40,I Don't F**k With You (feat. E-40),Big Sean,Dark Sky Paradise (Deluxe),AUTO_ACCEPT,1.0,1.0,0.0
+The Fighter,Gym Class Heroes Featuring Ryan Tedder,The Fighter (feat. Ryan Tedder),Gym Class Heroes,The Papercut Chronicles II,AUTO_ACCEPT,1.0,1.0,0.0
+London Bridge,Fergie,London Bridge,Fergie,The Dutchess,AUTO_ACCEPT,1.0,1.0,0.0
+Lovers And Friends,Lil Jon & The East Side Boyz Featuring Usher & Ludacris,Lovers and Friends (feat. Trixx & Skip),Lil Crazed,Famine - EP,LOW_CONFIDENCE,1.0,0.5,0.0
+When I See U,Fantasia,When I See U,Fantasia,Fantasia,AUTO_ACCEPT,1.0,1.0,0.0
+Sweet Dreams,Beyonce,Sweet Dreams,Beyoncé,I AM...SASHA FIERCE,AUTO_ACCEPT,1.0,0.0,0.0
+Amen,Shaboozey & Jelly Roll,Amen,Shaboozey & Jelly Roll,"Where I've Been, Isn't Where I'm Going: The Complete Edition",REVIEW,1.0,1.0,0.0
+Never Recover,Lil Baby & Gunna Featuring Drake,Never Recover,"Lil Baby, Gunna & Drake",Drip Harder,LOW_CONFIDENCE,1.0,1.0,0.25
+We No Speak Americano,Yolanda Be Cool & Dcup,We No Speak Americano,Yolanda Be Cool & DCUP,We No Speak Americano - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Blind,SZA,Blind,SZA,SOS,AUTO_ACCEPT,1.0,1.0,0.0
+Whistle,Flo Rida,Whistle,Flo Rida,2000s R&B,AUTO_ACCEPT,1.0,1.0,0.0
+Hold My Hand,Michael Jackson Duet With Akon,Hold My Hand (with Akon),Michael Jackson,Michael,REVIEW,1.0,1.0,0.0
+Unfaithful,Rihanna,Unfaithful,Rihanna,"Def Jam 25, Vol. 20 - Ladies First",AUTO_ACCEPT,1.0,1.0,0.0
+"""Ready, Set, Don't Go""",Billy Ray Cyrus With Miley Cyrus,"Ready, Set, Don't Go (feat. Miley Cyrus)",Billy Ray Cyrus,Home At Last,REVIEW,1.0,1.0,0.0
+I'm Good (Blue),David Guetta & Bebe Rexha,I'm Good (Blue),David Guetta & Bebe Rexha,I'm Good (Blue) - Single,REVIEW,1.0,1.0,0.0
+Partition,Beyonce,Partition,Beyoncé,BEYONCÉ,AUTO_ACCEPT,1.0,0.0,0.0
+Level Of Concern,Twenty One Pilots,Level of Concern,twenty one pilots,Level of Concern - Single,AUTO_ACCEPT,1.0,1.0,0.0
+Needy,Ariana Grande,needy,Ariana Grande,"thank u, next",AUTO_ACCEPT,1.0,1.0,0.0
+Ski,Young Thug & Gunna,Ski,"Young Stoner Life, Young Thug & Gunna",Slime Language 2 (Deluxe),LOW_CONFIDENCE,1.0,1.0,0.0
+Wind Up Missin' You,Tucker Wetmore,Wind Up Missin’ You,Tucker Wetmore,Wind Up Missin’ You - Single,AUTO_ACCEPT,1.0,1.0,0.0
+All I Want For Christmas Is You,Mariah Carey,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,AUTO_ACCEPT,1.0,1.0,0.0
+Call Your Friends,Rod Wave,Call Your Friends,Rod Wave,Nostalgia,AUTO_ACCEPT,1.0,1.0,0.0
+Better Place,*NSYNC,Better Place (From TROLLS Band Together),*NSYNC & Justin Timberlake,TROLLS Band Together (Original Motion Picture Soundtrack),LOW_CONFIDENCE,1.0,1.0,0.0

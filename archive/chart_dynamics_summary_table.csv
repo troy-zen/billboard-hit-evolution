@@ -1,0 +1,5 @@
+Metric,Pre TikTok,Post TikTok,% Change,p-value
+Median Lifespan (weeks),13.0,3.0,-76.9%,<0.001
+Median Time to Peak (weeks),4.0,0.0,-100.0%,<0.001
+% Reaching Top 10,14.4,9.8,-31.8%,<0.001
+Avg. Songs Entering / Year,410.2,558.9,+36.2%,0.003
