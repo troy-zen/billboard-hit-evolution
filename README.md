@@ -16,7 +16,7 @@ Using over 4,000 Billboard Top-40 songs from 2005–2025, a multi-stage pipeline
 
 ## Research Question
 
-How have the audio characteristics and chart dynamics of successful Billboard songs changed over time, particularly during the transition from the streaming era to the TikTok era?
+How have the audio characteristics and chart dynamics of successful Billboard songs changed over time, particularly during the transition from the radio and physical sales era to the streaming and TikTok era?
 
 ---
 
